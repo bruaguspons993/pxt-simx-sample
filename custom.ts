@@ -1,6 +1,6 @@
 namespace SimxSample {
     // 🛠️ TASK: Update this to your project's channel.
-    const SIMX_CHANNEL = "microsoft/pxt-simx-sample"
+    const SIMX_CHANNEL = "pepe"
 
     //% block
     export function sendString(s: string) {

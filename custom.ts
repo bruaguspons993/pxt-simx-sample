@@ -1,6 +1,6 @@
 namespace SimxSample {
     // 🛠️ TASK: Update this to your project's channel.
-    const SIMX_CHANNEL = "pepe"
+    const SIMX_CHANNEL = "butia4/butia-microbit-extension"
 
     //% block
     export function sendString(s: string) {
